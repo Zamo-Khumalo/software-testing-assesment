@@ -1,24 +1,40 @@
+1. 
 Product Owner
-1. What is the vision/ roadmap of the product?
-2. What are the client/ business objectives?
-3. Looking at the team's backlog, where does the new feature fall interms of prioritiies?
-4. Have the user stories been created and estimated?
-5. Looking at the time frames and the resources of the team, how is the capacity of the team? will the team be able to start working oon the new feature?
-6. What is the acceptance criteria of the new feature?
+a. What is the vision/ roadmap of the product?
+b. What are the client/ business objectives?
+c. Looking at the team's backlog, where does the new feature fall in terms of priorities?
+d. Have the user stories been created and estimated?
+e. Looking at the time frames and the resources of the team, how is the capacity of the team? will the team be able to start working on the new feature?
+f. What is the acceptance criteria of the new feature?
 
 UI Designer
-1. Has the product research been done and customer needs understood?
-2. what are the expected timelines for the creation of personas and information architecture?
-3. what are the expected timelines for the completion of the flow design and wireframing?
-4. when will the prototype of the feature be available?
-5. When is the testing team expected to start with the testing?
+a. Has the product research been done and customer needs understood?
+b. what are the expected timelines for the creation of personas and information architecture?
+c. what are the expected timelines for the completion of the flow design and wireframing?
+d. when will the prototype of the feature be available?
+e. When is the testing team expected to start with the testing?
 
 
 Technical Architect
-1. What are system requirements for the new feature?
-2. Does the new feature change the current architecture diagram?
-3. Is there any change required on the current technologies being used?
-4. Are there any risks that the new feature may bring?
-5. When is the estimated completion time of the architectural diagram?
-6. How frquent are code reviews going to be done?
-7. What are the expected quality standards and procudures?
+a. What are system requirements for the new feature?
+b. Does the new feature change the current architecture diagram?
+c. Is there any change required on the current technologies being used?
+d. Are there any risks that the new feature may bring?
+e. When is the estimated completion time of the architectural diagram?
+f. How frequent are code reviews going to be done?
+g. What are the expected quality standards and procedures?
+
+
+2. 
+Adding users :
+		Firstly, I would make the user to check if there are any available licences before they can be allowed to add users.
+		If there are any licence available, the users will be allowed to reserve them for a certain period of time to prevent 2 users using the same licence.
+		Then a new user can be added if the above conditions are met.
+Edit user details:
+		Users can be given a feature of displaying all the users that belong to them or an option of searching them by their name.
+		When the user has been found and selected, the admin can edit the details that they want to edit.
+		Once the editing has been done, admin user is given a chance to review changes before they can be made.
+		Admin can also be given permission to edit details of other admins but with approval from the owner of the users before the changes can be saved.
+Removing users:
+		Users can also be given feature of displaying all the users that belong to them or an option of searching them by their name.
+		then once the user has been found and selected, they can perform the deletion of the user.
