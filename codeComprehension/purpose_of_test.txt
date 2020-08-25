@@ -1,0 +1,5 @@
+1. 
+a. The code is attempting to query using defined query parameters.
+b. From the response it is selecting the 2rd id9Person)
+c. it is then trying to delete the person using PersonId
+d. It then tries to query again and expect a 404 response since the person has been deleted
