@@ -1,0 +1,4 @@
+SELECT COUNT(Id)
+FROM Users
+WHERE Views IN (SELECT AVG(Views)
+FROM Users);
